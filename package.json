@@ -20,7 +20,7 @@
     "typings": "dist/index.d.ts",
     "dependencies": {
         "jest": "20",
-        "typescript": "^2.3.4"
+        "typescript": "^2.9.2"
     },
     "devDependencies": {
         "@types/jest": "^19.2.4",
